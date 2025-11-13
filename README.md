@@ -13,7 +13,6 @@ While the library is currently limited, more cases will be generated over time.
 
 Isochrone Library Parameters: 
 - Fe/H = 0
-- Ages: 250Myr, 500Myr, 750Myr
-- Ages: 1.0 Gyr to 14.0 Gyr
+- Ages: 250Myr, 500Myr, 750Myr & from 1.0 Gyr to 14.0 Gyr
 - M67 and the Pleiades are also modeled
 
