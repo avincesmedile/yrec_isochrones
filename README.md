@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="619" height="246" alt="istary" src="https://github.com/user-attachments/assets/94e9aad7-a9f3-4c2c-81d0-6feb8190df9b" />
+<img width="459" height="192" alt="image" src="https://github.com/user-attachments/assets/495bc451-abbc-4462-ac08-5d9fb31cff35" />
 </p>
 
 ---
