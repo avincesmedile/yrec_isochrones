@@ -1,8 +1,8 @@
 <p align="center">
   <img width="619" height="246" alt="istary" src="https://github.com/user-attachments/assets/94e9aad7-a9f3-4c2c-81d0-6feb8190df9b" />
 </p>
----
 
+---
 From Istari: 
   The Wizards or Istari in J. R. R. Tolkien's fiction were powerful angelic beings, Maiar, who took the physical form and some of the limitations of Men to intervene in the affairs of Middle-earth in the Third Age, after catastrophically violent direct interventions by the Valar, and indeed by the one god Eru Ilúvatar, in the earlier ages.
   
