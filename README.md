@@ -10,7 +10,7 @@
 >Wizards like Gandalf were immortal Maiar, but took the form of Men. Two Wizards, Gandalf the Grey and Saruman the White, largely represent the order, though a third Wizard, Radagast the Brown, appears briefly. Two Blue Wizards are mentioned in passing. 
   
 
-All isochrone sample tables were computed using the YREC sample grid, and can be found in "isochrones" file. Note that for the isochrone creation to work, user may need to stitch the files together so they are not broken by the evolutionary phase. Relevant code is provided here. Isochrones were made using the ```YREC_isochrones_guide_final.ipynb``` found in the ```yrec_user_tools``` repository, or here. Isochrone EEPs were generated using the [Kiauhoku Stellar Model Interpolator](https://github.com/zclaytor/kiauhoku) from [Claytor et al., 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...43C/abstract).
+All isochrone sample tables were computed using the [YREC sample grid](https://github.com/yreclab/yrec), and can be found in "isochrones" file. Note that for the isochrone creation to work, user may need to stitch the files together so they are not broken by the evolutionary phase. Relevant code is provided here. Isochrones were made using the ```YREC_isochrones_guide_final.ipynb``` found in the ```yrec_user_tools``` repository, or here. Isochrone EEPs were generated using the [Kiauhoku Stellar Model Interpolator](https://github.com/zclaytor/kiauhoku) from [Claytor et al., 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...43C/abstract).
 
 While the library is currently limited, more cases will be generated over time.
 
