@@ -6,7 +6,7 @@
 ---
 
 
-All isochrone sample tables were computed using the [YREC Code](https://github.com/yreclab/yrec) and [Sample Grid](https://github.com/avincesmedile/yrec_isochrones/blob/main/yrec_final_grid2.zip). Pre-made Isochrones can be found in the [Isochrones File](https://github.com/avincesmedile/yrec_isochrones/tree/main/isochrones). 
+All isochrone sample tables were computed using the [YREC Code](https://github.com/yreclab/yrec) and [Sample Grid](https://github.com/avincesmedile/yrec_isochrones/blob/main/yrec_grid/yrec_final_grid2.zip). Pre-made Isochrones can be found in the [Isochrones File](https://github.com/avincesmedile/yrec_isochrones/tree/main/isochrones). 
 
 Note that for the isochrone creation to work, user may need to stitch the files together so they are not broken by the evolutionary phase. Relevant code is provided in ```YREC_isochrones_guide_final.ipynb```. When running this notebook, if using the pre-made grid use the ```YREC_release_eeps_interp.zip``` files to load the ```.*interpolator.pkl``` and ```.*eep``` files. 
 
