@@ -1,1 +1,2 @@
 /Users/vincentsmedile/YREC5.1/models/yrec_final_grid2 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
