@@ -8,7 +8,7 @@
 
 All isochrone sample tables were computed using the [YREC Code](https://github.com/yreclab/yrec) and [Sample Grid](https://github.com/avincesmedile/yrec_isochrones/blob/main/yrec_final_grid2.zip). Pre-made Isochrones can be found in the [Isochrones File](https://github.com/avincesmedile/yrec_isochrones/tree/main/isochrones). 
 
-Note that for the isochrone creation to work, user may need to stitch the files together so they are not broken by the evolutionary phase. Relevant code is provided in ```YREC_isochrones_guide_final.ipynb```. 
+Note that for the isochrone creation to work, user may need to stitch the files together so they are not broken by the evolutionary phase. Relevant code is provided in ```YREC_isochrones_guide_final.ipynb```. When running this notebook, if using the pre-made grid use the ```yrec_kiauhoku_interp_eeps.zip``` files to load the ```.*interpolator.pkl``` file. 
 
 Isochrones were made using the code in ```YREC_isochrones_guide_final.ipynb``` found in the ```yrec_user_tools``` repository, or here. Isochrone EEPs were generated using the [Kiauhoku Stellar Model Interpolator](https://github.com/zclaytor/kiauhoku) from [Claytor et al., 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...43C/abstract).
 
