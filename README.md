@@ -5,6 +5,7 @@
 
 ---
 
+**Written and Maintained by Vincent A. Smedile, Department of Astronomy, The Ohio State University**
 
 All isochrone sample tables were computed using the [YREC Code](https://github.com/yreclab/yrec) and [Sample Grid](https://github.com/avincesmedile/yrec_isochrones/blob/main/yrec_grid/yrec_final_grid2.zip). Pre-made Isochrones can be found in the [Isochrones File](https://github.com/avincesmedile/yrec_isochrones/tree/main/isochrones). 
 
