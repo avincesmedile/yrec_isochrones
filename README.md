@@ -3,7 +3,9 @@
  <img width="619" height="246" alt="istary" src="https://github.com/user-attachments/assets/9bff27ca-299f-485e-893e-abb8919e5cda" />
 </p>
 
-**Written and Maintained by Vincent A. Smedile, Department of Astronomy, The Ohio State University**
+<p align="center">
+Written and Maintained by Vincent A. Smedile, Department of Astronomy, The Ohio State University
+</p>
 
 ---
 
