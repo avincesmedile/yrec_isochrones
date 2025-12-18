@@ -7,17 +7,20 @@
 
 <p align="center">
 Copyright (C) 2025 Vincent A. Smedile
-
 </p>
+
+<p align="center">
+Center for Cosmology and AstroParticle Physics (CCAPP)
+</p>
+
 
 <p align="center">
 Department of Astronomy, The Ohio State University
-
 </p>
+
 
 <p align="center">
 18 December 2025
-
 </p>
 
 
