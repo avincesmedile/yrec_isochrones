@@ -3,6 +3,8 @@
  <img width="619" height="246" alt="istary" src="https://github.com/user-attachments/assets/9bff27ca-299f-485e-893e-abb8919e5cda" />
 </p>
 
+---
+
 <p align="center">
 Copyright (C) 2025 Vincent A. Smedile
 
