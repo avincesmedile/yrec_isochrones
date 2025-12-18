@@ -9,7 +9,12 @@ Copyright (c) 2025 Vincent A. Smedile
 </p>
 
 <p align="center">
-Written and Maintained by Vincent A. Smedile, Department of Astronomy, The Ohio State University
+Department of Astronomy, The Ohio State University
+
+</p>
+
+<p align="center">
+18 December 2025
 
 </p>
 
