@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-Copyright (**C**) 2025 Vincent A. Smedile
+Copyright (C) 2025 Vincent A. Smedile
 
 </p>
 
