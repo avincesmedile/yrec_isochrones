@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+Copyright (c) 2025 Vincent A. Smedile
 Written and Maintained by Vincent A. Smedile, Department of Astronomy, The Ohio State University
 </p>
 
