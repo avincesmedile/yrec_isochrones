@@ -30,7 +30,7 @@ All isochrone sample tables were computed using the [YREC Code](https://github.c
 
 Note that for the isochrone creation to work, user may need to stitch the files together so they are not broken by the evolutionary phase. Relevant code is provided in ```YREC_isochrones_guide_final.ipynb```. When running this notebook, if using the pre-made grid use the ```YREC_grids_sample.zip``` files to load the ```.*eep.pkl``` or ```.*interpolator.pkl``` files. Further instructions on loading the grid are in the ```.ipynb``` guide outlined below.
 
-Isochrones were made using the code in ```YREC_isochrones_guide_final.ipynb``` found in the ```yrec_user_tools``` repository, or here. Isochrone EEPs were generated using the [Kiauhoku Stellar Model Interpolator](https://github.com/zclaytor/kiauhoku) from [Claytor et al., 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...43C/abstract).
+Isochrones were made using the code in ```YREC_isochrones_guide_final.ipynb``` found in the ```yrec_user_tools``` repository, or here. Isochrone EEPs were generated using a wrapper function employing the [Kiauhoku Stellar Model Interpolator](https://github.com/zclaytor/kiauhoku) from [Claytor et al., 2020](https://ui.adsabs.harvard.edu/abs/2020ApJ...888...43C/abstract).
 
 While the library is currently limited, more cases will be generated over time.
 
