@@ -35,7 +35,7 @@ Isochrones were made using the code in ```YREC_isochrones_guide_final.ipynb``` f
 While the library is currently limited, more cases will be generated over time.
 
 Isochrone Library Parameters: 
-- Fe/H = 0
+- M/H (Z/X) = 0
 - Ages: 100Myr to 900Myr & from 1.0 Gyr to 14.0 Gyr
 - M67, the Pleiades, the Hyades, and Praesepe are also modeled
 
