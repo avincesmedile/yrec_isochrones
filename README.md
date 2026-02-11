@@ -37,7 +37,7 @@ While the library is currently limited, more cases will be generated over time.
 Isochrone Library Parameters: 
 - Fe/H = 0
 - Ages: 100Myr to 900Myr & from 1.0 Gyr to 14.0 Gyr
-- M67 and the Pleiades are also modeled
+- M67, the Pleiades, the Hyades, and Praesepe are also modeled
 
 
 **Namesake From [Istari](https://en.wikipedia.org/wiki/Wizards_in_Middle-earth)**: 
